@@ -1,6 +1,6 @@
 # Z80-MMU Z2 for RCBus
 
-Module Z80 CPU and MMU Z2 ([SBC Zeta v2](https://github.com/skiselev/zeta_sbc)) for RCBus systems
+Module Z80 CPU and MMU Z2 ( [SBC Zeta v2](https://github.com/skiselev/zeta_sbc) ) for RCBus systems
 
 ![populated board](board.jpg)
 
