@@ -30,3 +30,9 @@ Module Z80 CPU and MMU Z2 ([SBC Zeta v2](https://github.com/skiselev/zeta_sbc)) 
 | IC Socket          | X1        | 4 pin DIP for oscillator                     | 1        |
 
 [Gerber files](Z80MMU1v10.zip) prepared for production at JLCPCB
+
+## License
+
+Copyright 2025 Tadeusz Pycio
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) ](https://creativecommons.org/licenses/by-nc/4.0/).
