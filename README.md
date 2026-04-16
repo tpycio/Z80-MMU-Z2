@@ -38,6 +38,7 @@ There are two versions of the module, which differ in the multiplexer used. Mode
 (*) - depending on the version selected
 
 [Gerber files for model A](Z80MMU1v10A.zip) prepared for production at JLCPCB
+
 [Gerber files for model B](Z80MMU1v10B.zip) prepared for production at JLCPCB
 
 ## License
